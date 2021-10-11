@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# TODO アプリ
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 仕様
 
-## Available Scripts
+### できること
 
-In the project directory, you can run:
+- TODO の状態を完了と未完了別にリスト化して表示する
+- TODO が追加できる
+- TODO の状態を変更できる（完了と未完了）
+- TODO を削除できる
+- モックサーバーで TODO 情報の更新管理ができる
 
 ### `yarn start`
 
