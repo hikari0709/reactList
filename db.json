@@ -8,12 +8,18 @@
     {
       "id": 2,
       "content": "サーバーで利用するデータを作成する",
-      "done": false
+      "done": true
     },
     {
       "id": 3,
       "content": "用意したデータの表示を確認する",
-      "done": false
+      "done": true
+    },
+    {
+      "content": "冬支度。衣替えをする",
+      "is": "01FJ67NEXVN0S2RTGSTBCJPE8W",
+      "done": false,
+      "id": 4
     }
   ]
 }
